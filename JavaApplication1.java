@@ -65,7 +65,7 @@ public class JavaApplication1 {
                 bus = teclado.nextInt();
                 lista.get(bus);
                 //System.out.println("Elemento encontrado1: " + lista.get(bus));
-                System.out.println("El producto :" + lista.toString());
+                System.out.println("El producto es :" + lista.toString());
                 System.out.println("El codigo :" + lista1.toString());
                 System.out.println("El precio :" + lista2.toString());
                 System.out.println("El tipo :" + lista3.toString());
